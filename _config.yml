@@ -1,7 +1,7 @@
 name: "Doctor's Financial"
 favicon: null
-layout_spectrum: 0.869417796144262
-typography_spectrum: 0.9604110699146986
+layout_spectrum: 0.5018
+typography_spectrum: 0.74505
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#007db8'
+    - '#003153'
+    - '#a0d2f8'
+    - '#be936a'
   brandStrength: 0.6945050060749054
   lightness: 0.9354353360831738
   saturation: 0.21109794080257416
