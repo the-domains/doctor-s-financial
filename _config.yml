@@ -1,8 +1,19 @@
-name: "Doctor's Financial"
-favicon: null
 layout_spectrum: 0.24718
-typography_spectrum: 0.74761
-title: "Doctor's Financial"
+typography_spectrum: 0.06065675988793373
+color:
+  brandColors:
+    - '#98B8C8'
+    - '#0890D0'
+    - '#508098'
+    - '#0088C8'
+    - '#A0F0F8'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+name: Doctor's Financial
+favicon: null
+title: Doctor's Financial
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#98B8C8'
-    - '#0890D0'
-    - '#508098'
-    - '#0088C8'
-    - '#A0F0F8'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
